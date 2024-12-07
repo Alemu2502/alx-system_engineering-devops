@@ -35,7 +35,6 @@ Prerequisites
  ##### Setup
 Clone the repository
 
-sh
 git clone https://github.com/Alemu2502/alx-system_engineering-devops.git
 
 Navigate to the project directory
